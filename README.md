@@ -1,8 +1,8 @@
 ### Hi there, I'm Andrés 👋
 - 💻 I’m currently studying a Software Engineering!
-- 📚 I’m currently learning Android Jetpack, Kotlin and Flutter
-- 👯 I’m looking to collaborate on mobile projects
-- 🥅 2020 Goals: Get a job in the mobile industry
+- 👷 I’m a working as a Mobile Engineer developing Flutter!
+- 📚 I’m currently learning Android Jetpack and Kotlin 
+- 🥅 2021 Goals: master Flutter and learn electronics
 - 📖 I'm currenty reading The Way of Kings (The Stormlight Archive)
 
 ### Connect with me:
