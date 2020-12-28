@@ -29,9 +29,9 @@
 <br />
 
 ### Working on getting better every day 💪
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=emcee3)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=emcee3&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emcee3&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [linkedin]: https://linkedin.com/in/andresmartinezvalverde
